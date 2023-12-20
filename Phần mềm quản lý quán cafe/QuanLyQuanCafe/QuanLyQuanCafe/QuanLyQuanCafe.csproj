@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DEEC2B23-A50E-453E-AEB6-7135266C7C05}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyQuanCafe</RootNamespace>
+    <AssemblyName>QuanLyQuanCafe</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="fRevenueStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fRevenueStatistics.Designer.cs">
+      <DependentUpon>fRevenueStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fStaffInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fStaffInfo.Designer.cs">
+      <DependentUpon>fStaffInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fAddCategary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAddCategary.Designer.cs">
+      <DependentUpon>fAddCategary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fAddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAddProduct.Designer.cs">
+      <DependentUpon>fAddProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fAddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAddStaff.Designer.cs">
+      <DependentUpon>fAddStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fAddTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAddTable.Designer.cs">
+      <DependentUpon>fAddTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fManager.Designer.cs">
+      <DependentUpon>fManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fStaff.Designer.cs">
+      <DependentUpon>fStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fPayment.Designer.cs">
+      <DependentUpon>fPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fProductStatistics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fProductStatistics.Designer.cs">
+      <DependentUpon>fProductStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="fRevenueStatistics.resx">
+      <DependentUpon>fRevenueStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fStaffInfo.resx">
+      <DependentUpon>fStaffInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAddCategary.resx">
+      <DependentUpon>fAddCategary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAddProduct.resx">
+      <DependentUpon>fAddProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAddStaff.resx">
+      <DependentUpon>fAddStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAddTable.resx">
+      <DependentUpon>fAddTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fManager.resx">
+      <DependentUpon>fManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fStaff.resx">
+      <DependentUpon>fStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fPayment.resx">
+      <DependentUpon>fPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fProductStatistics.resx">
+      <DependentUpon>fProductStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sp Team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Thiết kế chưa có tên.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAO\DAO.csproj">
+      <Project>{7a9d0cc7-e0e6-4f19-adb9-9e78a83901ce}</Project>
+      <Name>DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{53201436-2ec3-4768-93c2-04864f4bdc6e}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

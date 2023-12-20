@@ -1,0 +1,6 @@
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\DTO\bin\Debug\DTO.dll
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\DTO\bin\Debug\DTO.pdb
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\DTO\obj\Debug\DTO.dll
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\DTO\obj\Debug\DTO.pdb

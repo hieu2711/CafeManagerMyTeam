@@ -1,0 +1,70 @@
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fManager.resources
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fStaff.resources
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.FAddFood.resources
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAddCategary.resources
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAddTable.resources
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAddStaff.resources
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fStaffInfo.resources
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fDoanhThu.resources
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThongKeSanPham.resources
+E:\Quản lý quán cafe\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fThanhToan.resources
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAO.dll
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.dll
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAO.pdb
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.pdb
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fStaffInfo.resources
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAddCategary.resources
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAddStaff.resources
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAddTable.resources
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fManager.resources
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fStaff.resources
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fRevenueStatistics.resources
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAddProduct.resources
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fPayment.resources
+H:\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fProductStatistics.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAO.dll
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.dll
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAO.pdb
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.pdb
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fRevenueStatistics.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fStaffInfo.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAddCategary.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAddProduct.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAddStaff.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAddTable.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fManager.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fStaff.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fPayment.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fProductStatistics.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.CopyComplete
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\Downloads\Phần mềm quản lý quán cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
